@@ -1,10 +1,7 @@
 # Repositório Bootcamp Microsoft Azure - Computação em nuvem
 Repositório de atividade prática contendo resumos, dicas, arquivos e anotações sobre as aulas de microsoft azure na plataforma DIO.
 
-## Anotações
-- On premise = local
-- CapEx = capital expenditures
-- OpEx = operationals expenditures
+
 
 ## Resumos
 - Computação em nuvem é o conjunto de serviços computacionais pagos ou não oferecidos para pessoas e organizações através da internet.
@@ -29,7 +26,10 @@ Repositório de atividade prática contendo resumos, dicas, arquivos e anotaçõ
 - Benefícios da nuvem híbrida:  
 **Flexibilidade**  
 
-## Dicas
+## Anotações
+- On premise = local
+- CapEx = capital expenditures
+- OpEx = operationals expenditures
 
 ## Material de apoio
 - [Criação de uma máquina virtual microsoft azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)

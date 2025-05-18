@@ -6,7 +6,7 @@ Repositório de atividade prática contendo resumos, dicas, arquivos e anotaçõ
 ## Resumos
 - Computação em nuvem é o conjunto de serviços computacionais pagos ou não oferecidos para pessoas e organizações através da internet.
   
-- Os serviços em nuvem podem serem classificados de três modelos diferentes:  
+- Os serviços em nuvem podem serem classificados em três modelos diferentes:  
 **Iaas(infrastructure as a service):** Infraestrutura do computador como armazenamento e processamento de dados em servidores e computadores remotos.  
 **Paas(plataform as a service):** Plataformas para desenvolvimento de software, como gerenciadores de banco de dados, programas de linguagem de programação, frameworks etc, oferecido como serviço.  
 **Saas(software as a service):** Programas como gerenciadores de planilhas, apresentações, textos, tarefas etc; que são utilizados por usuários finais.  
